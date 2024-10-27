@@ -1,0 +1,48 @@
+[
+   {
+      "classi": [
+         {
+            "nome": "Prima",
+            "sezioni": [
+               {
+                  "nome": "1AI",
+                  "lezioni": [
+                     {
+                        "lun": [
+                           {
+                              "oraInizio": "8:30",
+							  "oraFine": "9:30",
+							  "materia": "Italiano"
+                           },
+						   {
+                              "oraInizio": "9:30",
+							  "oraFine": "10:30",
+							  "materia": "Italiano"
+                           },
+						   {
+                              "oraInizio": "10:30",
+							  "oraFine": "11:30",
+							  "materia": "Italiano"
+                           },
+						   {
+                              "oraInizio": "11:30",
+							  "oraFine": "12:30",
+							  "materia": "Matematica"
+                           },
+						   {
+                              "oraInizio": "12:30",
+							  "oraFine": "13:30",
+							  "materia": "Storia"
+                           }
+						   
+                          
+                        ]
+                     }
+                  ]
+               }
+            ]
+         }
+
+      ]
+   }
+]
